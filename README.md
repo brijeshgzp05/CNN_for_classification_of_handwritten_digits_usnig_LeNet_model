@@ -7,7 +7,7 @@ The dataset contains 26 folders (A-Z) containing handwritten images in size 28 b
 Each image is stored as Gray-level
 
 Accuracy after one epoch - 91%
-Accuracy after one epoch - 98%
+Accuracy after 20 epochs - 98%
 
-Accuracy can be increased by hyperparameter tuning.
+Accuracy can be increased by hyperparameter tuning or by using AlexNet or VGG-16.
 
